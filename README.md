@@ -1,1 +1,1 @@
-## Train and Deploy Machine Learning using Pure Rust.
+# Train and Deploy Machine Learning using Pure Rust 🦀.
